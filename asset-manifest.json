@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ch16-marine/static/css/main.06fe5c0e.css",
+    "main.js": "/ch16-marine/static/js/main.7611564e.js",
+    "index.html": "/ch16-marine/index.html",
+    "main.06fe5c0e.css.map": "/ch16-marine/static/css/main.06fe5c0e.css.map",
+    "main.7611564e.js.map": "/ch16-marine/static/js/main.7611564e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06fe5c0e.css",
+    "static/js/main.7611564e.js"
+  ]
+}
