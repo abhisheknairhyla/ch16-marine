@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ch16-marine/static/css/main.3e188d22.css",
-    "main.js": "/ch16-marine/static/js/main.c5364cba.js",
+    "main.css": "/ch16-marine/static/css/main.b2337ae2.css",
+    "main.js": "/ch16-marine/static/js/main.437a6e12.js",
     "index.html": "/ch16-marine/index.html",
-    "main.3e188d22.css.map": "/ch16-marine/static/css/main.3e188d22.css.map",
-    "main.c5364cba.js.map": "/ch16-marine/static/js/main.c5364cba.js.map"
+    "main.b2337ae2.css.map": "/ch16-marine/static/css/main.b2337ae2.css.map",
+    "main.437a6e12.js.map": "/ch16-marine/static/js/main.437a6e12.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e188d22.css",
-    "static/js/main.c5364cba.js"
+    "static/css/main.b2337ae2.css",
+    "static/js/main.437a6e12.js"
   ]
 }
